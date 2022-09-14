@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCDemo", "MVCDemo\MVCDemo.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIDemo", "APIDemo\APIDemo.csproj", "{B33154D5-5EC9-4B17-AA45-02EC9ED8F3DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApiClient", "ConsoleApiClient\ConsoleApiClient.csproj", "{694BF834-1B67-40F0-BE8A-E5B936493622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApiClient", "ConsoleApiClient\ConsoleApiClient.csproj", "{694BF834-1B67-40F0-BE8A-E5B936493622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject_ClassLibPizza", "TestProject_ClassLibPizza\TestProject_ClassLibPizza.csproj", "{A737AB09-A7FB-4519-BE82-4FEAB6E1A7CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{694BF834-1B67-40F0-BE8A-E5B936493622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{694BF834-1B67-40F0-BE8A-E5B936493622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{694BF834-1B67-40F0-BE8A-E5B936493622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A737AB09-A7FB-4519-BE82-4FEAB6E1A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A737AB09-A7FB-4519-BE82-4FEAB6E1A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A737AB09-A7FB-4519-BE82-4FEAB6E1A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A737AB09-A7FB-4519-BE82-4FEAB6E1A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
